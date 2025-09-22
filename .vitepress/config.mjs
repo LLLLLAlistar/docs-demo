@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/docs-demo/",
   title: "运维笔记",
   description: "记录运维技术栈",
   themeConfig: {
