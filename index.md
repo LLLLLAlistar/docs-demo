@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "我的文档"
+  name: "ZANOTE"
   text: "记录运维技术栈"
   tagline: 
   actions:
