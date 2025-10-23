@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: alt
       text: Linux部署Zabbix
-      link: /zabbix1
+      link: /zabbix_configuration
     - theme: alt
       text: Linux部署Jumpserver堡垒机
       link: /jumpserver1
