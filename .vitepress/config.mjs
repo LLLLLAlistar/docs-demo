@@ -9,14 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '笔记', link: '/zabbix1' }
+      { text: '笔记', link: '/zabbix_configuration' }
     ],
 
     sidebar: [
       {
-        //  text: '笔记',
+        text: 'Linux部署',
         items: [
-          { text: 'Linux部署Zabbix', link: '/zabbix1' },
+          { text: 'Linux部署Zabbix', link: '/zabbix_configuration' },
           { text: 'Linux部署Jumpserver堡垒机', link: '/jumpserver1' }
         ]
       }
