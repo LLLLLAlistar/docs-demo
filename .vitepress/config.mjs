@@ -17,7 +17,8 @@ export default defineConfig({
         text: 'Linux部署',
         items: [
           { text: 'Linux部署Zabbix', link: '/zabbix_configuration' },
-          { text: 'Linux部署Jumpserver堡垒机', link: '/jumpserver1' }
+          { text: 'Linux部署Jumpserver堡垒机', link: '/jumpserver1' },
+          { text: 'Linux常见命令大全', link: '/linux-summary' }
         ]
       }
     ],

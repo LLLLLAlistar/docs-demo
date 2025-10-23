@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Linux部署Jumpserver堡垒机
       link: /jumpserver1
+    - theme: alt
+      text: Linux常见命令大全
+      link: /linux-summary
 
 features:
   - title: 运维
